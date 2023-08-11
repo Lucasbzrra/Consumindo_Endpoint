@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CONSUMINDO_API_DADOS_FUTEBOL": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
